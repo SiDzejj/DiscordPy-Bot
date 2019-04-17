@@ -1,0 +1,27 @@
+TOKEN = ''
+prefix = '.'
+email = ''
+password = ''
+login_type = True  # <- True = token login, False = email login
+name = "SiDzej's Server"
+on_ready = 'is ready'
+Welcome_message = 'Welcome to the ' + name + ', '
+Welcome_message2 = " I've assigned you a role."
+base_role_name = 'Zarejestrowany'
+permission_error = "You don't have enough permission to do this."
+kick_message = 'User'
+kick_message2 = "has been kicked from the "
+kick_direct = "You have been kicked from the server. "
+main_channel_id = "272680131024257024"
+message_logs_channel = "512353396834041866"
+message_delete = "I have deleted "
+message_delete2 = " messages."
+ban_message = "has been banned."
+coin_flip = "I've flipped a coin."
+no_voice_msg = "you've got to join a voice channel first."
+channel = ''
+already_connected = 'a bot is already connected to some voice channel.'
+already_disconnected = 'a bot is already disconnected.'
+not_playing = "bot isn't playing right now."
+players = {}
+video_queue = "I've queued a video."
